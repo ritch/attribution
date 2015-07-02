@@ -1,0 +1,35 @@
+{
+  "name": "attribution",
+  "version": "0.1.0",
+  "description": "Explain your JavaScript",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ritch/attribution.git"
+  },
+  "keywords": [
+    "attribute",
+    "parser",
+    "javascript",
+    "jsdoc",
+    "comments"
+  ],
+  "author": "Ritchie Martori",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ritch/attribution/issues"
+  },
+  "homepage": "https://github.com/ritch/attribution",
+  "devDependencies": {
+    "chai": "^3.0.0"
+  },
+  "dependencies": {
+    "esprima": "^2.4.1"
+  }
+}
